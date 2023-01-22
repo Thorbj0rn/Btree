@@ -1,0 +1,15 @@
+D:\Users\Bjorn\Desktop\BTree\bin\Debug\net7.0\BTree.exe
+D:\Users\Bjorn\Desktop\BTree\bin\Debug\net7.0\BTree.deps.json
+D:\Users\Bjorn\Desktop\BTree\bin\Debug\net7.0\BTree.runtimeconfig.json
+D:\Users\Bjorn\Desktop\BTree\bin\Debug\net7.0\BTree.dll
+D:\Users\Bjorn\Desktop\BTree\bin\Debug\net7.0\BTree.pdb
+D:\Users\Bjorn\Desktop\BTree\obj\Debug\net7.0\BTree.csproj.AssemblyReference.cache
+D:\Users\Bjorn\Desktop\BTree\obj\Debug\net7.0\BTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Bjorn\Desktop\BTree\obj\Debug\net7.0\BTree.AssemblyInfoInputs.cache
+D:\Users\Bjorn\Desktop\BTree\obj\Debug\net7.0\BTree.AssemblyInfo.cs
+D:\Users\Bjorn\Desktop\BTree\obj\Debug\net7.0\BTree.csproj.CoreCompileInputs.cache
+D:\Users\Bjorn\Desktop\BTree\obj\Debug\net7.0\BTree.dll
+D:\Users\Bjorn\Desktop\BTree\obj\Debug\net7.0\refint\BTree.dll
+D:\Users\Bjorn\Desktop\BTree\obj\Debug\net7.0\BTree.pdb
+D:\Users\Bjorn\Desktop\BTree\obj\Debug\net7.0\BTree.genruntimeconfig.cache
+D:\Users\Bjorn\Desktop\BTree\obj\Debug\net7.0\ref\BTree.dll
