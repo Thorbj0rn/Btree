@@ -71,7 +71,7 @@ public class Element
             if (Keys.Count == MaxKeysCount)
             {
                 //Если элемент корневой, то создаем пустой элемент, будущий корень дерева
-                Parent ??= new Element(_t, null, new List<int>(), new List<Element>(){this});
+                Parent ??= new Element(_t, null!, new List<int>(), new List<Element>(){this});
 
                 var medianKey = Keys[_t - 1];
                 var leftKeys = Keys.GetRange(0, _t - 1);
